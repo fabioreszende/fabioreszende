@@ -97,7 +97,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
       alt="react"
       width="40"
       height="40"
