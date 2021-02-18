@@ -105,7 +105,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="https://www.flaticon.com/svg/vstatic/svg/919/919832.svg?token=exp=1613664223~hmac=ad39e16f15cb2771e80f62d1be4b058f"
       alt="typescript"
       width="40"
       height="40"
