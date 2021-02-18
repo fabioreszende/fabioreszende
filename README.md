@@ -118,3 +118,4 @@
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/fabio-rezende-b084231b8/" target="_blank">LinkedIn</a>.
 - 🐦 Following me on <a href="https://app.rocketseat.com.br/me/fabio-rezende-00566" target="_blank">Rocketseat</a>.
 - 🖊️ Following me on <a href="https://codepen.io/fabioreszende" target="_blank">Codepen</a>.
+- 🖖 Following me on <a href="https://www.freecodecamp.org/fcc99498393-fb9d-4e99-8336-6151598cd700" target="_blank">FreeCodeCamp</a>.
